@@ -10,13 +10,16 @@ start page
 ![image](https://github.com/chenhuaizhen/FlyingDinosaur/raw/master/image/1.jpg)
 ![image](https://github.com/chenhuaizhen/FlyingDinosaur/raw/master/image/2.jpg)
 
-常规游戏界面  
-the normal game mode  
+Easy游戏界面  
+the easy game mode  
 ![image](https://github.com/chenhuaizhen/FlyingDinosaur/raw/master/image/3.jpg)
 
-PVP游戏界面  
-the PVP game mode  
+Hard游戏界面  
+the hard game mode  
 ![image](https://github.com/chenhuaizhen/FlyingDinosaur/raw/master/image/4.jpg)
+
+游戏是通过鼠标移动界面中央的恐龙不断避开周围会自动移动的障碍物  
+in this game you have to use the mouse to move the dinosaur at the center of the interface to avoid the auto-moving obstacles  
 
 试完网址  
 the test website  
